@@ -3,7 +3,7 @@
 The Superstore Sales Dashboard is a comprehensive business intelligence solution developed using Power BI. It provides key insights into sales, profit, and order performance across various dimensions such as category, region, and customer segment. This dashboard is designed to empower decision-makers with actionable insights to drive business growth.
 
 ## 🚀 Key Features
-1. Overall Performance Metrics
+1. ***Overall Performance Metrics***
 Total Sales: $1.6M
 Total Profit: $175K
 Total Orders: 22K
