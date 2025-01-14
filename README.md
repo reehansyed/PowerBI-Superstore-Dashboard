@@ -4,17 +4,17 @@ The Superstore Sales Dashboard is a comprehensive business intelligence solution
 
 ## 🚀 Key Features
 1. ***Overall Performance Metrics***
-Total Sales: $1.6M
-Total Profit: $175K
-Total Orders: 22K
-Average Shipping Days: 4
-2. Sales Analysis
-Sales by Category: Highlights top-performing categories (e.g., Office Supplies, Technology, Furniture).
-Sales by Sub-Category: Identifies the most profitable sub-categories (e.g., Phones, Chairs, Binders).
-Sales by Region: Visualizes regional contributions (West: 33%, East: 29%, South: 22%, Central: 16%).
-Sales by State: Pinpoints state-level sales leaders (e.g., California: $335K, New York: $187K).
-3. Profit Analysis
-Monthly profit trends for 2019 and 2020, enabling seasonality insights.
+- Total Sales: $1.6M
+- Total Profit: $175K
+- Total Orders: 22K
+- Average Shipping Days: 4
+2. ***Sales Analysis***
+- Sales by Category: Highlights top-performing categories (e.g., Office Supplies, Technology, Furniture).
+- Sales by Sub-Category: Identifies the most profitable sub-categories (e.g., Phones, Chairs, Binders).
+- Sales by Region: Visualizes regional contributions (West: 33%, East: 29%, South: 22%, Central: 16%).
+- Sales by State: Pinpoints state-level sales leaders (e.g., California: $335K, New York: $187K).
+3. ***Profit Analysis***
+- Monthly profit trends for 2019 and 2020, enabling seasonality insights.
 4. Customer Segmentation
 Breakdown by segments: Consumer (48%), Corporate (33%), Home Office (19%).
 5. Shipping Insights
