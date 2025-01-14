@@ -15,15 +15,15 @@ The Superstore Sales Dashboard is a comprehensive business intelligence solution
 - Sales by State: Pinpoints state-level sales leaders (e.g., California: $335K, New York: $187K).
 3. ***Profit Analysis***
 - Monthly profit trends for 2019 and 2020, enabling seasonality insights.
-4. Customer Segmentation
-Breakdown by segments: Consumer (48%), Corporate (33%), Home Office (19%).
-5. Shipping Insights
-Sales by ship mode: Standard Class leads with $330K in sales.
-Average shipping days analysis to optimize delivery performance.
-6. Payment Insights
-Distribution of payment modes: Online (43%), Cards (35%), COD (22%).
-7. Sales Forecast
-15-day sales forecast to assist in planning and resource allocation.
+4. ***Customer Segmentation***
+- Breakdown by segments: Consumer (48%), Corporate (33%), Home Office (19%).
+5. ***Shipping Insights***
+- Sales by ship mode: Standard Class leads with $330K in sales.
+- Average shipping days analysis to optimize delivery performance.
+6. ***Payment Insights***
+- Distribution of payment modes: Online (43%), Cards (35%), COD (22%).
+7. ***Sales Forecast***
+- 15-day sales forecast to assist in planning and resource allocation.
 ## 🛠️ Tools & Technologies
 - Power BI: Data visualization and dashboard creation.
 - Dataset: Sample Superstore dataset (csv).
@@ -40,7 +40,7 @@ Superstore-Sales-PowerBI/
 │   ├── Sales-by-Category.png
 │   ├── Profit-Trends.png
 ## 📷 Dashboard Preview
-Overall Dashboard View
+- Overall Dashboard View
 
 ## 📝 How to Use
 - Download the .pbix file: Open it in Power BI Desktop.
