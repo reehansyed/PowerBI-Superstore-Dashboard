@@ -47,10 +47,10 @@ Overall Dashboard View
 - Dataset: Ensure the dataset (Superstore-Sales-Data.csv) is placed in the same directory or update the data source in Power BI.
 Explore: Interact with the dashboard to gain insights.
 ## 📈 Key Insights
-California is the top-performing state with $335K in sales.
-Phones are the most profitable sub-category with $197K in sales.
-Standard Class is the most used shipping mode, contributing $330K in sales.
-The West region dominates sales, contributing 33% of total revenue.
-Sales and profit peak during November and December, indicating strong seasonal demand.
+- California is the top-performing state with $335K in sales.
+- Phones are the most profitable sub-category with $197K in sales.
+- Standard Class is the most used shipping mode, contributing $330K in sales.
+- The West region dominates sales, contributing 33% of total revenue.
+- Sales and profit peak during November and December, indicating strong seasonal demand.
 
 
