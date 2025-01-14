@@ -1,4 +1,5 @@
 # Superstore Sales Dashboard (Power BI)
+![](file:///C:/Users/SYED%20REEHAN/Downloads/SuperStore%20Dashboard.pdf)
 ## 📊 Project Overview
 The Superstore Sales Dashboard is a comprehensive business intelligence solution developed using Power BI. It provides key insights into sales, profit, and order performance across various dimensions such as category, region, and customer segment. This dashboard is designed to empower decision-makers with actionable insights to drive business growth.
 
