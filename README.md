@@ -24,36 +24,33 @@ Average shipping days analysis to optimize delivery performance.
 Distribution of payment modes: Online (43%), Cards (35%), COD (22%).
 7. Sales Forecast
 15-day sales forecast to assist in planning and resource allocation.
-🛠️ Tools & Technologies
-Power BI: Data visualization and dashboard creation.
-Dataset: Sample Superstore dataset (Excel format).
-Forecasting Model: Built-in Power BI forecasting feature.
-📂 Repository Structure
+## 🛠️ Tools & Technologies
+- Power BI: Data visualization and dashboard creation.
+- Dataset: Sample Superstore dataset (csv).
+- Forecasting Model: Built-in Power BI forecasting feature.
+## 📂 Repository Structure
 bash
 Copy code
 Superstore-Sales-PowerBI/
 ├── Superstore-Sales-Dashboard.pbix  # Power BI project file
-├── Superstore-Sales-Data.xlsx       # Dataset used for analysis
+├── Superstore-Sales-Data.csv       # Dataset used for analysis
 ├── README.md                        # Project documentation
 ├── Images/                          # Visual previews
 │   ├── Dashboard-Overview.png
 │   ├── Sales-by-Category.png
 │   ├── Profit-Trends.png
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 Overall Dashboard View
 
-📝 How to Use
-Download the .pbix file: Open it in Power BI Desktop.
-Dataset: Ensure the dataset (Superstore-Sales-Data.xlsx) is placed in the same directory or update the data source in Power BI.
+## 📝 How to Use
+- Download the .pbix file: Open it in Power BI Desktop.
+- Dataset: Ensure the dataset (Superstore-Sales-Data.csv) is placed in the same directory or update the data source in Power BI.
 Explore: Interact with the dashboard to gain insights.
-📈 Key Insights
+## 📈 Key Insights
 California is the top-performing state with $335K in sales.
 Phones are the most profitable sub-category with $197K in sales.
 Standard Class is the most used shipping mode, contributing $330K in sales.
 The West region dominates sales, contributing 33% of total revenue.
 Sales and profit peak during November and December, indicating strong seasonal demand.
-📌 Data Source
-Dataset: Sample Superstore dataset, publicly available for analysis and practice.
-🤝 Acknowledgments
-Special thanks to the creators of the Superstore dataset and the Power BI community for their invaluable resources.
+
 
