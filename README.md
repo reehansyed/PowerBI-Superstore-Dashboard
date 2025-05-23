@@ -33,9 +33,10 @@ The Superstore Sales Dashboard is a comprehensive business intelligence solution
 - Overall Dashboard View
 
 ## 📝 How to Use
-- Download the .pbix file: Open it in Power BI Desktop.
-- Dataset: Ensure the dataset (Superstore-Sales-Data.csv) is placed in the same directory or update the data source in Power BI.
-Explore: Interact with the dashboard to gain insights.
+- Download the .pbix file and open it using Power BI Desktop.
+- Dataset Setup: Place the Superstore-Sales-Data.csv file in the same directory as the .pbix 
+  file, or update the data source path within Power BI.
+- Explore the Dashboard: Interact with visuals to uncover key insights and trends.
 ## 📈 Key Insights
 - California is the top-performing state with $335K in sales.
 - Phones are the most profitable sub-category with $197K in sales.
